@@ -7,9 +7,7 @@ import Zoom from "react-reveal/Zoom";
 class Header extends Component {
   render() {
     if (this.props.data) {
-      var occupation = this.props.data.occupation;
       var description = this.props.data.description;
-      var city = this.props.data.address.city;
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
@@ -75,9 +73,7 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">I'm Meghanath</h1>
 
-            <h3>
-              {description}.
-            </h3>
+            <h3>{description}.</h3>
 
             <hr />
 
