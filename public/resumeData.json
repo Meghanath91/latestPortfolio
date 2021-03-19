@@ -1,0 +1,177 @@
+{
+  "main": {
+    "name": "Meghanath",
+    "occupation": "Full Stack Web Developer",
+    "description": "A developer with a strong interest in projects requiring conceptual and analytical thinking. I enjoy designing websites with end users in mind.",
+    "image": "profilepic.jpg",
+    "bio": "I am a Full Stack Web Developer with a strong interest in projects requiring conceptual and analytical thinking. I enjoy designing and developing web applications with end users in mind. Throughout the course of my career, I have perfected my coding skills and software best practices assurance abilities. I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency. In my previous roles, I contributed problem-solving, collaboration, and quality assurance toward team efforts and business improvements. I am progressive minded and in tune with new developments in my field. I have proven to be effective and collaborative with strong critical thinking talents. I enjoy collective brainstorming sessions which allow me to coordinate activities to achieve a common goal.I want to bring my passion and energy to a company that is doing meaningful work and striving to create values for society.",
+    "contactmessage": "Please send me message",
+    "email": "meghanath.balaji@gmail.com",
+    "phone": "647-528-7504",
+    "address": {
+      "street": "2233 Eglinton Avenue East",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "M1K2M9"
+    },
+    "website": "https://500px.com/meghanathpbala",
+    "resumedownload": "https://www.canva.com/design/DAD0_YgjkkY/80WF1PBJOuVAISfzBrbAKQ/view?utm_content=DAD0_YgjkkY&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/meghanathponoly/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Meghanath91",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Lighthouse Labs",
+        "degree": "Full Stack Web  Developer bootCamp",
+        "graduated": "April 2020",
+        "description": "It was an intense learning experience. I used to code almost 15 hours per day during my bootcamp. We did 2 projects from scratch our own and 5 in-class projects. This project experience helped me to sharpen my skills in React, Node.js, HTML, CSS, PostgreSQL etc. Moreover we get hands on experience on testing frameworks as Selenium, Jest, Chai, Cypress."
+      },
+      {
+        "school": "India Options",
+        "degree": "Software Testing & Automation Diploma",
+        "graduated": "December 2016",
+        "description": "I get a chance to learn how software development cycle and software testing life works.Also I have learned different testing methodlogies and testing frameworks like selenium Webdriver etc."
+      },
+      {
+        "school": "Centennial",
+        "degree": "Energy Systems Engineering Advanced Diploma",
+        "graduated": "May 2016",
+        "description": "I achieved higher grades  in PLC, Renewable Energy System, Power Electronics. I have designed Solar based Wireless power transmission prototype and I conducted an Energy auditing project of a 7 Eleven store"
+      },
+      {
+        "school": "Calicut University",
+        "degree": "Bachelor of Technology in Electrical & Electronics Engineering ",
+        "graduated": "May 2013",
+        "description": "During my undergrad I was able to develop my skills in complex problem solving and analytical thinking. Designed and executed two energy efficient projects: 1.Substation Automation (Conducted at Electrical Automation Lab) this project involved in full automation of substation. 2.Power Over Usage Indicator (Conducted at Research & Development Lab"
+      }
+    ],
+    "work": [
+      {
+        "company": "CoEng 2020",
+        "title": "Full Stack Developer",
+        "years": "September 2020 - February 2021",
+        "description": "Create reusable components in React/Redux app. Build and Optimise Micro services. Build responsive design for both mobile and web Integrate 3rd party API services.Performed IoT development"
+      },
+      {
+        "company": "MedEssist",
+        "title": "Junior Developer",
+        "years": "April 2020 - September 2020",
+        "description": "Create and optimise React components. Enhance UX/UI , create responsive design. Architect and build  French version. Integrate with Medessist inventory app."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Node.Js",
+        "level": "80%"
+      },
+      {
+        "name": "React.Js",
+        "level": "75%"
+      },
+      {
+        "name": "Vue.Js",
+        "level": "75%"
+      },
+      {
+        "name": "CSS3",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Express.Js",
+        "level": "75%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Jest",
+        "level": "70%"
+      },
+      {
+        "name": "Linux",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Custom-fitness",
+        "category": "An app that allows to connect trainers and students where trainers can create custom workouts and students can complete it. ",
+        "image": "Custom.gif",
+        "url": "https://customfitness.netlify.app/"
+      },
+      {
+        "title": "Rumours-Lounge & Restaurant ",
+        "category": "An interactive & responsive web app for restaurant where users can view the menu,submit the order and receive a confirmation SMS & call.",
+        "image": "Rumours.gif",
+        "url": "https://rumours.herokuapp.com/"
+      },
+      {
+        "title": "Interview-Scheduler",
+        "category": "An interactive web app to manage interview schedules",
+        "image": "interview.gif",
+        "url": "https://intscheduler.netlify.app/"
+      },
+      {
+        "title": "Portfolio-Website",
+        "category": "A React based resume website template",
+        "image": "portfolio.gif",
+        "url": " https://meghanath91.herokuapp.com"
+      },
+      {
+        "title": "Buzzit",
+        "category": "A movie searching app built with Vue and Vuetify",
+        "image": "buzzit.gif",
+        "url": "https://movieitt.netlify.app"
+      },
+      {
+        "title": "BookList-App",
+        "category": "A book listing application built with React & Redux",
+        "image": "BookListApp.gif",
+        "url": "https://booklista.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Meghanath was a great team player with good leadership qualities. He was my partner in 2 of our projects and he was extremely goal oriented and hardworking person",
+        "user": "Parth Desai...FullStack Web Developer"
+      },
+      {
+        "text": "Meghanath showed great passion in learning and coding. He was very focused and determined to achieve his goals during the bootcamp. I have witnessed his hardwork and enthusiasm on his projects",
+        "user": "Vasily Klimkin... Instructor & mentor @ Lighthouse Labs"
+      }
+    ]
+  }
+}
