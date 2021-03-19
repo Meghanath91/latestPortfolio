@@ -50,128 +50,128 @@ class Contact extends Component {
 
   render() {
     if (this.props.data) {
-      // var name = this.props.data.name;
-      // var street = this.props.data.address.street;
-      // var city = this.props.data.address.city;
-      // var state = this.props.data.address.state;
-      // var zip = this.props.data.address.zip;
-      // var phone = this.props.data.phone;
-      // var email = this.props.data.email;
-      // var message = this.props.data.contactmessage;
+      var name = this.props.data.name;
+      var street = this.props.data.address.street;
+      var city = this.props.data.address.city;
+      var state = this.props.data.address.state;
+      var zip = this.props.data.address.zip;
+      var phone = this.props.data.phone;
+      var email = this.props.data.email;
+      var message = this.props.data.contactmessage;
     }
     return (
       <section id="contact">
-        {/* <div className="row section-head">
-        <div className="two columns header-col">
-          <h1>
-            <span>Get In Touch.</span>
-          </h1>
+        <div className="row section-head">
+          <div className="two columns header-col">
+            <h1>
+              <span>Get In Touch.</span>
+            </h1>
+          </div>
+
+          <div className="ten columns">
+            <p className="lead">{message}</p>
+          </div>
         </div>
 
-        <div className="ten columns">
-          <p className="lead">{message}</p>
-        </div>
-      </div>
-
-      <div className="row">
-        <div className="eight columns">
-          <form
-            id="contactForm"
-            name="contactForm"
-            onSubmit={this.handleSubmit}
-          >
-            <fieldset>
-              <div>
-                <label htmlFor="contactName">
-                  Name <span className="required">*</span>
-                </label>
-                <input
-                  type="text"
-                  defaultValue=""
-                  size="35"
-                  id="contactName"
-                  name="contactName"
-                  value={this.state.contactName}
-                  onChange={this.handleChange}
-                />
-              </div>
-
-              <div>
-                <label htmlFor="contactEmail">
-                  Email <span className="required">*</span>
-                </label>
-                <input
-                  type="text"
-                  defaultValue=""
-                  size="35"
-                  id="contactEmail"
-                  name="contactEmail"
-                  value={this.state.contactEmail}
+        <div className="row">
+          <div className="eight columns">
+            <form
+              id="contactForm"
+              name="contactForm"
+              onSubmit={this.handleSubmit}
+            >
+              <fieldset>
+                <div>
+                  <label htmlFor="contactName">
+                    Name <span className="required">*</span>
+                  </label>
+                  <input
+                    type="text"
+                    defaultValue=""
+                    size="35"
+                    id="contactName"
+                    name="contactName"
+                    value={this.state.contactName}
                     onChange={this.handleChange}
-                />
-              </div>
+                  />
+                </div>
 
-              <div>
-                <label htmlFor="contactSubject">Subject</label>
-                <input
-                  type="text"
-                  defaultValue=""
-                  size="35"
-                  id="contactSubject"
-                  name="contactSubject"
-                  value={this.state.contactSubject}
+                <div>
+                  <label htmlFor="contactEmail">
+                    Email <span className="required">*</span>
+                  </label>
+                  <input
+                    type="text"
+                    defaultValue=""
+                    size="35"
+                    id="contactEmail"
+                    name="contactEmail"
+                    value={this.state.contactEmail}
                     onChange={this.handleChange}
-                />
-              </div>
+                  />
+                </div>
 
-              <div>
-                <label htmlFor="contactMessage">
-                  Message <span className="required">*</span>
-                </label>
-                <textarea
-                  cols="50"
-                  rows="15"
-                  id="contactMessage"
-                  value={this.state.contactMessage}
-                  onChange={this.handleChange}
-                  name="contactMessage"
-                ></textarea>
-              </div>   
+                <div>
+                  <label htmlFor="contactSubject">Subject</label>
+                  <input
+                    type="text"
+                    defaultValue=""
+                    size="35"
+                    id="contactSubject"
+                    name="contactSubject"
+                    value={this.state.contactSubject}
+                    onChange={this.handleChange}
+                  />
+                </div>
+
+                <div>
+                  <label htmlFor="contactMessage">
+                    Message <span className="required">*</span>
+                  </label>
+                  <textarea
+                    cols="50"
+                    rows="15"
+                    id="contactMessage"
+                    value={this.state.contactMessage}
+                    onChange={this.handleChange}
+                    name="contactMessage"
+                  ></textarea>
+                </div>
                 <button
-                id="button"
-                onClick={this.handleClick}
-                className="form-button"
-                type="submit"
-              >
-                Send Message
+                  id="button"
+                  onClick={this.handleClick}
+                  className="form-button"
+                  type="submit"
+                >
+                  Send Message
               </button>
-             
 
-            </fieldset>
-          </form>
 
-          <div id="message-warning"> Error boy</div>
-          <div id="message-success">
-            <i className="fa fa-check"></i>Your message was sent, thank you!
+              </fieldset>
+            </form>
+
+            <div id="message-warning"> Error boy</div>
+            <div id="message-success">
+              <i className="fa fa-check"></i>Your message was sent, thank you!
             <br />
+            </div>
           </div>
-        </div>
 
-        <aside className="four columns footer-widgets">
-          <div className="widget widget_contact">
-            <h4>Address and Phone</h4>
-            <p className="address">
-              {name}
-              <br />
-              {street} <br />
-              {city}, {state} {zip}
-              <br />
-              <span>{phone}</span> <br />
-              <span>{email}</span>
-            </p>
-          </div>
-        </aside>
-      </div> */}
+          <aside className="four columns footer-widgets">
+            <div className="widget widget_contact">
+              <h4>Address and Phone</h4>
+              <p className="address">
+                {name}
+                <br />
+                {street} <br />
+                {city}, {state} {zip}
+                <br />
+                <span>{phone}</span> <br />
+                <span>{email}</span>
+              </p>
+            </div>
+          </aside>
+        </div>
       </section>
     );
   }

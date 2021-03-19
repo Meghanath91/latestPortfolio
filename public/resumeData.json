@@ -2,7 +2,7 @@
   "main": {
     "name": "Meghanath",
     "occupation": "Full Stack Web Developer",
-    "description": "A developer with a strong interest in projects requiring conceptual and analytical thinking. I enjoy designing websites with end users in mind.",
+    "description": "Full Stack Developer with a strong interest in projects requiring conceptual and analytical thinking. I enjoy designing websites with end users in mind.",
     "image": "profilepic.jpg",
     "bio": "I am a Full Stack Web Developer with a strong interest in projects requiring conceptual and analytical thinking. I enjoy designing and developing web applications with end users in mind. Throughout the course of my career, I have perfected my coding skills and software best practices assurance abilities. I am a capable and consistent problem-solver skilled at prioritizing and managing projects with proficiency. In my previous roles, I contributed problem-solving, collaboration, and quality assurance toward team efforts and business improvements. I am progressive minded and in tune with new developments in my field. I have proven to be effective and collaborative with strong critical thinking talents. I enjoy collective brainstorming sessions which allow me to coordinate activities to achieve a common goal.I want to bring my passion and energy to a company that is doing meaningful work and striving to create values for society.",
     "contactmessage": "Please send me message",
@@ -34,27 +34,23 @@
     "education": [
       {
         "school": "Lighthouse Labs",
-        "degree": "Full Stack Web  Developer bootCamp",
-        "graduated": "April 2020",
-        "description": "It was an intense learning experience. I used to code almost 15 hours per day during my bootcamp. We did 2 projects from scratch our own and 5 in-class projects. This project experience helped me to sharpen my skills in React, Node.js, HTML, CSS, PostgreSQL etc. Moreover we get hands on experience on testing frameworks as Selenium, Jest, Chai, Cypress."
+        "degree": "Full Stack Web  Developer bootCamp Diploma",
+        "graduated": "April 2020"
       },
       {
         "school": "India Options",
         "degree": "Software Testing & Automation Diploma",
-        "graduated": "December 2016",
-        "description": "I get a chance to learn how software development cycle and software testing life works.Also I have learned different testing methodlogies and testing frameworks like selenium Webdriver etc."
+        "graduated": "December 2016"
       },
       {
         "school": "Centennial",
         "degree": "Energy Systems Engineering Advanced Diploma",
-        "graduated": "May 2016",
-        "description": "I achieved higher grades  in PLC, Renewable Energy System, Power Electronics. I have designed Solar based Wireless power transmission prototype and I conducted an Energy auditing project of a 7 Eleven store"
+        "graduated": "May 2016"
       },
       {
         "school": "Calicut University",
         "degree": "Bachelor of Technology in Electrical & Electronics Engineering ",
-        "graduated": "May 2013",
-        "description": "During my undergrad I was able to develop my skills in complex problem solving and analytical thinking. Designed and executed two energy efficient projects: 1.Substation Automation (Conducted at Electrical Automation Lab) this project involved in full automation of substation. 2.Power Over Usage Indicator (Conducted at Research & Development Lab"
+        "graduated": "May 2013"
       }
     ],
     "work": [
@@ -73,52 +69,84 @@
     ],
     "skills": [
       {
+        "name": "JavaScript",
+        "image": "javascript.png"
+      },
+      {
         "name": "Git",
-        "level": "80%"
+        "image": "git.png"
       },
       {
         "name": "Node.Js",
-        "level": "80%"
+        "image": "node.png"
       },
       {
         "name": "React.Js",
-        "level": "75%"
+        "image": "react.png"
       },
       {
         "name": "Vue.Js",
-        "level": "75%"
+        "image": "vue.png"
       },
       {
         "name": "CSS3",
-        "level": "70%"
+        "image": "css3.png"
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "image": "html5.png"
       },
       {
         "name": "Express.Js",
-        "level": "75%"
+        "image": "express.png"
       },
       {
         "name": "PostgreSQL",
-        "level": "80%"
+        "image": "postgresql.png"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "image": "mongodb.png"
       },
       {
         "name": "Jest",
-        "level": "70%"
+        "image": "jest.png"
       },
       {
         "name": "Linux",
-        "level": "80%"
+        "image": "linux.png"
+      },
+      {
+        "name": "Windows",
+        "image": "windows.png"
       },
       {
         "name": "Adobe Photoshop",
-        "level": "75%"
+        "image": "adobe-photoshop.png"
+      },
+      {
+        "name": "Redux",
+        "image": "redux.png"
+      },
+      {
+        "name": "Docker",
+        "image": "docker.png"
+      },
+      {
+        "name": "Kubernetes",
+        "image": "kubernets.png"
+      },
+      {
+        "name": "GitHub",
+        "image": "github.png"
+      },
+      {
+        "name": "React Native",
+        "image": "react-native.png"
+      },
+      {
+        "name": "SASS",
+        "image": "sass.png"
       }
     ]
   },
