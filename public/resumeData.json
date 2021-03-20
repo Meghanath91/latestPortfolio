@@ -73,12 +73,12 @@
         "image": "javascript.png"
       },
       {
-        "name": "Git",
-        "image": "git.png"
+        "name": "HTML5",
+        "image": "html5.png"
       },
       {
-        "name": "Node.Js",
-        "image": "node.png"
+        "name": "CSS3",
+        "image": "css3.png"
       },
       {
         "name": "React.Js",
@@ -89,16 +89,24 @@
         "image": "vue.png"
       },
       {
-        "name": "CSS3",
-        "image": "css3.png"
+        "name": "Node.Js",
+        "image": "node.png"
       },
       {
-        "name": "HTML5",
-        "image": "html5.png"
+        "name": "React Native",
+        "image": "react-native.png"
+      },
+      {
+        "name": "Redux",
+        "image": "redux.png"
       },
       {
         "name": "Express.Js",
         "image": "express.png"
+      },
+      {
+        "name": "SASS",
+        "image": "sass.png"
       },
       {
         "name": "PostgreSQL",
@@ -113,20 +121,8 @@
         "image": "jest.png"
       },
       {
-        "name": "Linux",
-        "image": "linux.png"
-      },
-      {
-        "name": "Windows",
-        "image": "windows.png"
-      },
-      {
-        "name": "Photoshop",
-        "image": "adobe-photoshop.png"
-      },
-      {
-        "name": "Redux",
-        "image": "redux.png"
+        "name": "Git",
+        "image": "git.png"
       },
       {
         "name": "Docker",
@@ -141,12 +137,16 @@
         "image": "github.png"
       },
       {
-        "name": "React Native",
-        "image": "react-native.png"
+        "name": "Linux",
+        "image": "linux.png"
       },
       {
-        "name": "SASS",
-        "image": "sass.png"
+        "name": "Windows",
+        "image": "windows.png"
+      },
+      {
+        "name": "Photoshop",
+        "image": "adobe-photoshop.png"
       }
     ]
   },
