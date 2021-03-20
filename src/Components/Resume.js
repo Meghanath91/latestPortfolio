@@ -35,8 +35,7 @@ class Resume extends Component {
 
             <div className="individual-skill">
               <img
-                width="120px"
-                height="120px"
+                className="skill-icon"
                 src={"images/skills/" + skills.image}
                 alt="skills"
               />
