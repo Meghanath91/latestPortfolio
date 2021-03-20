@@ -230,6 +230,10 @@
 
   /* About Section
    -------------------------------------------------------------------- */
+
+  #about {
+    height: 1200px;
+  }
   #about .profile-pic {
     display: none;
   }
@@ -287,6 +291,9 @@
 
   /* Portfolio Section
    /* ----------------------------------------------------------------- */
+  #portfolio {
+    height: 800px;
+  }
   #portfolio-wrapper .columns {
     margin-bottom: 40px;
   }

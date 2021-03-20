@@ -58,13 +58,13 @@
         "company": "CoEng 2020",
         "title": "Full Stack Developer",
         "years": "September 2020 - February 2021",
-        "description": "Create reusable components in React/Redux app. Build and Optimise Micro services. Build responsive design for both mobile and web Integrate 3rd party API services.Performed IoT development"
+        "description": "<span>&bull;</span>  Create reusable components in React/Redux app <br> <span>&bull;</span>  Build responsive design for both mobile and web<br><span>&bull;</span>  Build and Optimise Micro services<br><span>&bull;</span>  Integrate 3rd party API services<br><span>&bull;</span>  IoT development using BACnet Protocol<br><span>&bull;</span>   Software and services solution that organises building’s information to build an energy &nbsp;&nbsp;efficiency plan in the fastest,easiest, and least expensive way<br><span>&bull;</span>   Built with MERN stack and deployed to IBM cloud"
       },
       {
         "company": "MedEssist",
         "title": "Junior Developer",
         "years": "April 2020 - September 2020",
-        "description": "Create and optimise React components. Enhance UX/UI , create responsive design. Architect and build  French version. Integrate with Medessist inventory app."
+        "description": "<span>&bull;</span>  Create and optimise React components<br><span>&bull;</span>  Enhance UX/UI , create responsive design<br><span>&bull;</span>  Architect and build  French version<br><span>&bull;</span>  Integrate with Medessist inventory app<br><span>&bull;</span>  Error handling in client side<br><span>&bull;</span>   A cloud based vaccine booking platform which handles all documentation through online<br><span>&bull;</span>  Built with React, Node, Express, Material-Ui, Bootstrap & Firebase"
       }
     ],
     "skills": [
@@ -153,16 +153,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Custom-fitness",
-        "category": "An app that allows to connect trainers and students where trainers can create custom workouts and students can complete it. ",
-        "image": "Custom.gif",
-        "url": "https://customfitness.netlify.app/"
+        "title": "Buzzit",
+        "category": "A movie searching app built with Vue and Vuetify",
+        "image": "buzzit.gif",
+        "url": "https://movieitt.netlify.app"
       },
       {
         "title": "Rumours-Lounge & Restaurant ",
         "category": "An interactive & responsive web app for restaurant where users can view the menu,submit the order and receive a confirmation SMS & call.",
         "image": "Rumours.gif",
         "url": "https://rumours.herokuapp.com/"
+      },
+      {
+        "title": "BookList-App",
+        "category": "A book listing application built with React & Redux",
+        "image": "BookListApp.gif",
+        "url": "https://booklista.netlify.app/"
+      },
+      {
+        "title": "Data-visualization",
+        "category": "Data visualization prototype built with React & Highcharts",
+        "image": "datavisualisation.gif",
+        "url": "https://visualizationprototype.netlify.app/"
+      },
+      {
+        "title": "Custom-fitness",
+        "category": "An app that allows to connect trainers and students where trainers can create custom workouts and students can complete it. ",
+        "image": "Custom.gif",
+        "url": "https://customfitness.netlify.app/"
       },
       {
         "title": "Interview-Scheduler",
@@ -174,19 +192,13 @@
         "title": "Portfolio-Website",
         "category": "A React based resume website template",
         "image": "portfolio.gif",
-        "url": " https://meghanath91.herokuapp.com"
+        "url": "https://meghanath.netlify.app/"
       },
       {
-        "title": "Buzzit",
-        "category": "A movie searching app built with Vue and Vuetify",
-        "image": "buzzit.gif",
-        "url": "https://movieitt.netlify.app"
-      },
-      {
-        "title": "BookList-App",
-        "category": "A book listing application built with React & Redux",
-        "image": "BookListApp.gif",
-        "url": "https://booklista.netlify.app/"
+        "title": "Prepr",
+        "category": "Front end design challenge built with React",
+        "image": "prepr.gif",
+        "url": "https://prepr-challenge.netlify.app/"
       }
     ]
   },
